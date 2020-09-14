@@ -1,7 +1,12 @@
 /*
 To compile modify property sheets according to your opencv setup
-and copy these files:
-
+and copy these files (according to opencv version):
+opencv_calib3d440d.dll
+opencv_core440d.dll
+opencv_features2d440d.dll
+opencv_flann440d.dll
+opencv_imgcodecs440d.dll
+opencv_imgproc440d.dll
 into x64\Debug directory.
 Then modify directory containing test images at start of main function
 */
