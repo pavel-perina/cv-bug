@@ -21,3 +21,7 @@ Image=25; keypoints=1670vs1673; matches=1224; inliers=1217 (99.4281%)
 Image=26; keypoints=1673vs1673; matches=1673; inliers=69 (4.12433%)
 Image=27; keypoints=1673vs1688; matches=1189; inliers=1176 (98.9066%)
 ```
+
+## Links
+https://stackoverflow.com/questions/63881433/opencv-4-4-0-knnmatch-does-not-seem-to-work-when-two-images-have-same-number-of
+https://answers.opencv.org/question/235539/knnmatchbfhamming-bug-or-not/
